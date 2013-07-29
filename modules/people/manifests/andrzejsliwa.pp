@@ -9,5 +9,6 @@ class people::andrzejsliwa {
   include tmux
   include spotify
   include littlesnitch
+  include totalterminal
 }
 

@@ -4,6 +4,11 @@ GITHUBTARBALL
     littlesnitch (1.0.1)
 
 GITHUBTARBALL
+  remote: andrzejsliwa/puppet-totalterminal
+  specs:
+    totalterminal (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-alfred
   specs:
     alfred (1.1.2)
@@ -206,6 +211,7 @@ DEPENDENCIES
   sudo (= 1.0.0)
   sysctl (= 1.0.0)
   tmux (= 1.0.2)
+  totalterminal (= 1.0.0)
   vagrant (= 2.0.9)
   virtualbox (= 1.0.5)
   xquartz (= 1.1.0)
