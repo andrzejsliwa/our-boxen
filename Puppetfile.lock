@@ -69,6 +69,11 @@ GITHUBTARBALL
     ruby (6.2.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-rubymine
+  specs:
+    rubymine (1.0.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-skype
   specs:
     skype (1.0.2)
@@ -109,6 +114,7 @@ DEPENDENCIES
   openssl (= 1.0.0)
   repository (= 2.2.0)
   ruby (= 6.2.0)
+  rubymine (= 1.0.2)
   skype (= 1.0.2)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
