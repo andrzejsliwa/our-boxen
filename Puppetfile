@@ -34,6 +34,7 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+github "sysctl",     "1.0.0"
 github "chrome",     "1.1.1"
 github "skype",      "1.0.2"
 github "alfred",     "1.1.2"

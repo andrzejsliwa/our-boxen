@@ -6,7 +6,7 @@ class people::andrzejsliwa {
   include ctags
   include erlang
   include firefox
-  include iterm2
+  include iterm2::stable
   include java
   include onepassword
   include postgresql
