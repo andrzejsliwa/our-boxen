@@ -52,5 +52,7 @@ github "tmux",       "1.0.2"
 github "spotify",    "1.0.1"
 github "vagrant",    "2.0.9"
 github "virtualbox", "1.0.5"
+
+github "littlesnitch", "1.0.1", :repo => "andrzejsliwa/puppet-littlesnitch"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

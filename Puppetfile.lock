@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: andrzejsliwa/puppet-littlesnitch
+  specs:
+    littlesnitch (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-alfred
   specs:
     alfred (1.1.2)
@@ -184,6 +189,7 @@ DEPENDENCIES
   inifile (= 1.0.0)
   iterm2 (= 1.0.3)
   java (= 1.1.0)
+  littlesnitch (= 1.0.1)
   nginx (= 1.4.2)
   nodejs (= 3.2.8)
   onepassword (= 1.0.2)

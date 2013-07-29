@@ -8,5 +8,6 @@ class people::andrzejsliwa {
   include onepassword
   include tmux
   include spotify
+  include littlesnitch
 }
 
