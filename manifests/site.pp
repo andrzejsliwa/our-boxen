@@ -57,6 +57,13 @@ node default {
   include git
   include hub
   include nginx
+  include skype
+  include ctags
+  include redis
+  include postgresql
+  include java
+  include riak
+  include vagrant
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
