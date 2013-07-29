@@ -60,6 +60,7 @@ node default {
   include skype
   include ctags
   include redis
+  include virtualbox
   include postgresql
   include java
   include riak
