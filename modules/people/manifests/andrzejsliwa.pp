@@ -3,5 +3,17 @@ class people::andrzejsliwa {
   include skype
   include alfred
   include rubymine
+  include ctags
+  include erlang
+  include firefox
+  include iterm2
+  include java
+  include onepassword
+  include postgresql
+  include redis
+  include riak
+  include tmux
+  include spotify
+  include vagrant
 }
 
