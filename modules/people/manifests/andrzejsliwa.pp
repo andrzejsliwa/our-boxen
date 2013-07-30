@@ -1,4 +1,5 @@
 class people::andrzejsliwa {
+  include dropbox
   include chrome
   include alfred
   include rubymine

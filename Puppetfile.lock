@@ -4,11 +4,6 @@ GITHUBTARBALL
     littlesnitch (1.0.1)
 
 GITHUBTARBALL
-  remote: andrzejsliwa/puppet-totalterminal
-  specs:
-    totalterminal (1.0.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-alfred
   specs:
     alfred (1.1.2)
@@ -37,6 +32,11 @@ GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.1.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-erlang
@@ -185,6 +185,7 @@ DEPENDENCIES
   chrome (= 1.1.1)
   ctags (= 1.0.0)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.1.1)
   erlang (= 1.0.1)
   firefox (= 1.1.1)
   gcc (= 2.0.1)
@@ -211,7 +212,6 @@ DEPENDENCIES
   sudo (= 1.0.0)
   sysctl (= 1.0.0)
   tmux (= 1.0.2)
-  totalterminal (= 1.0.0)
   vagrant (= 2.0.9)
   virtualbox (= 1.0.5)
   xquartz (= 1.1.0)

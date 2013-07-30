@@ -52,8 +52,8 @@ github "tmux",       "1.0.2"
 github "spotify",    "1.0.1"
 github "vagrant",    "2.0.9"
 github "virtualbox", "1.0.5"
-
+github "dropbox",    "1.1.1"
 github "littlesnitch",  "1.0.1", :repo => "andrzejsliwa/puppet-littlesnitch"
-github "totalterminal", "1.0.0", :repo => "andrzejsliwa/puppet-totalterminal"
+# github "totalterminal", "1.0.4", :repo => "andrzejsliwa/puppet-totalterminal"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
